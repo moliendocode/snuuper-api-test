@@ -1,4 +1,4 @@
-#### Proyecto realizado para el proceso de entrevistas para Snuuper.
+# Proyecto realizado para el proceso de entrevistas para Snuuper.
 
 Para usar esta aplicación se deben seguir los siguientes pasos:
 
