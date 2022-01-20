@@ -24,7 +24,7 @@ Una vez seguidos estos pasos se pueden hacer las calls a la API a los siguientes
         POST /auth/login - Ingresar
         GET /users - Listar usuarios - Debes estar logeado para usar este endpoint
 
-###### Como logear
+### Como logear
 
 1. Crear cuenta en `/auth/signin`, indicando **username**, **password** y **email**
 2. Ingresar con tu cuenta en `/auth/login`, indicando **username** y **password**. Esto te respondera con un **token**.
